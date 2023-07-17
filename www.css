@@ -1,0 +1,37 @@
+
+
+body {
+    background-image: url(img/Fundo.jpg);
+    text-align: center;
+    background-size: cover;
+    background-repeat: repeat-y;
+ }
+
+
+ main {
+    width: 90%;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+ }
+ a:hover{
+   color: yellow;
+ }
+
+.caixa{
+   padding-top: 0px;
+   padding-left: 80px;
+   padding-right: 80px;
+}
+
+.espaco{
+   padding-top: 10px;
+   padding-left: 100px;
+   padding-right: 100px;
+}
+
+.borda{
+   border-style: solid;
+   border-color: goldenrod;
+}
